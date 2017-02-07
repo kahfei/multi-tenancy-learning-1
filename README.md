@@ -1,0 +1,2 @@
+## Learning multi tenancy setup in rails
+tutorial from [Elbow Room Studios](http://blog.elbowroomstudios.com/) article [Zero to Multitenant in 15 minutes - A Rails Walkthrough](http://blog.elbowroomstudios.com/zero-to-multitenant-in-15-minutes-a-rails-walkthrough/)
